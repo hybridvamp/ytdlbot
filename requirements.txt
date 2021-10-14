@@ -1,4 +1,4 @@
 git
 TgCrypto
 pyrogram
-git+https://github.com/ytdl-org/youtube-dl
+youtube-dl
